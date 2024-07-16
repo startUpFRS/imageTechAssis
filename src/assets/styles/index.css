@@ -1,0 +1,10 @@
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  font-family: "Graphik",Arial,Helvetica,sans-serif;
+}

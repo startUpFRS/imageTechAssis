@@ -1,0 +1,23 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+}
+
+.stocksListing {
+  background-color: rgb(49, 221, 155);
+  text-align: center;
+  align-content: center;
+  height: 60px;
+}
+
+.stocksListing h2 {
+  font-weight: bold;
+}
+
+.headings {
+  background-color: rgb(0, 0, 0);
+  color: #fff;
+  text-align: center;
+  align-content: center;
+  height: 125px;
+}

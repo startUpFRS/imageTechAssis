@@ -1,0 +1,18 @@
+.navBarContainer {
+  height: 50px;
+}
+
+.bg-myColor {
+  background-image: linear-gradient(to right, #141313, #141313);
+}
+
+.navLink {
+  margin-right: 10px;
+  color: white;
+}
+
+.companyName {
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 30px;
+}

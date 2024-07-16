@@ -1,0 +1,38 @@
+.searchHeaderDiv {
+  border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+.divBox {
+  height: 50px;
+  align-content: center;
+  border-right: 1px solid rgb(0, 0, 0);
+}
+
+.allImageText {
+  margin-left: 5px;
+  font-weight: bold;
+}
+
+.dropdownArrow {
+  float: right;
+}
+
+.searchBox {
+  border-right: 1px solid rgb(0, 0, 0);
+}
+
+.search-input {
+  margin-left: 10px;
+  border: 0cap;
+  height: 100%;
+  width: 85%;
+}
+
+.imageSearchBox {
+  height: 50px;
+  align-content: center;
+}
+
+.ImageSearchText {
+  margin-left: 5px;
+}
